@@ -6,6 +6,6 @@
 |hallway_group|300K+-120K|600K±180K|2000K+|1000K±300K|
 
 
-![Parameter sensitivity analysis](Parameter sensitivity analysis.png)
+![Parameter sensitivity analysis](Parameter_sensitivity_analysis.png)
 
-![Ablation for auxiliary tasks](Ablation for auxiliary tasks.png)
+![Ablation for auxiliary tasks](Ablation_for_auxiliary_tasks.png)
